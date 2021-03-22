@@ -3,8 +3,7 @@ import React from 'react'
 export default class Profile extends React.Component {
     constructor() {
         super();
-
-        this.state = {
+    this.state = {
             name: 'peter',
             email: 'sunilkawadiworks@gmail.com',
             phone: 8109940165,
